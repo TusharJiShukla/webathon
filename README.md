@@ -1,50 +1,31 @@
-﻿<div align="center">
-  <h1 align="center">webathon</h1>
-  <h3>Developed by Tushar Shukla</h3>
-</div>
-
-<br/>
-
-## 🚀 Overview
-
-Welcome to the **webathon** repository! This project was built to solve interesting problems and explore new technologies. Check out the source code to see how it was implemented.
-
-<br/>
-
-## 🛠️ Built With
-
-*This project leverages modern tools and technologies to deliver a robust solution.*
-
-<br/>
-
-## 💻 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. Clone the repo:
-   `sh
-   git clone https://github.com/TusharJiShukla/webathon.git
-   `
-2. Navigate to the project directory:
-   `sh
-   cd webathon
-   `
-
-<br/>
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
-
-<br/>
-
-## 👤 Author
-
-**Tushar Shukla**
-- GitHub: [@TusharJiShukla](https://github.com/TusharJiShukla)
-- LinkedIn: [Tushar Shukla](https://linkedin.com/in/tushar-shukla)
-- Email: tusharjishukla@gmail.com
-
 <div align="center">
-  <sub>Made with ❤️ by Tushar Shukla</sub>
+  
+# 🌐 Webathon Hackathon Project
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+An innovative web application developed for the Webathon event, showcasing rapid prototyping and modern frontend development.
 </div>
+
+## 🌟 Features
+- **Modern Architecture**: Component-based UI built (likely React).
+- **Rapid UI**: Styled utility-first with Tailwind CSS for speed and elegance.
+- **Hackathon Ready**: Scalable and presentable from day one.
+
+## 🚀 Getting Started
+### Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/TusharJiShukla/webathon.git
+   cd webathon
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development environment:
+   ```bash
+   npm start
+   ```
